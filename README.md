@@ -33,7 +33,7 @@
 ![Hashed Password](./SCREENSHOTS/03_Hashed_Password_MongoDB_Atlas.png)
 
 ### 4. Successful Login
-![Login](./SCREENSHOTS/04_Successful_Login.png)
+![Login](./SCREENSHOTS/04_Successful_Login_JWT.png)
 
 ### 5. JWT Token Received
 ![JWT](./SCREENSHOTS/05_JWT_Token_Received.png)
